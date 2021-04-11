@@ -34,7 +34,3 @@ class ListaBadges extends React.Component {
   }
 }
 export default ListaBadges;
-
-{
-  /*{badge.nombre} {badge.apellido}*/
-}
